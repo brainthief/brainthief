@@ -9,11 +9,11 @@ Technologies:
 - React, Redux, Typescript, 
 - NextJs, Express,
 - Laravel,
-- Msql, Postgress, Oracle, MongoDB, Mysql
-- Cypress, Jest, Storybook
-- Git, CI/CD, Ansible
+- DB: Msql, Postgress, Oracle, MongoDB, Mysql
+- Jest, Storybook (+loki), Cypress
+- Git, CI/CD, Ansible, GitLab, TeamCity
 - Algorithms and data structures
-- SOLID principles
+- SOLID principles, FSD
 
 
 <!---
