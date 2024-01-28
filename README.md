@@ -11,7 +11,9 @@ Technologies:
 - Laravel,
 - DB: Msql, Postgress, Oracle, MongoDB, Mysql
 - Jest, Storybook (+loki), Cypress
-- Git, CI/CD, Ansible, GitLab, TeamCity
+- Git
+- CI/CD, Ansible, GitLab, TeamCity, docker
+- nginx, Apache
 - Algorithms and data structures
 - SOLID principles, FSD
 
