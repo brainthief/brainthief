@@ -6,7 +6,8 @@
 - LinkedIn https://www.linkedin.com/in/vytautas-vasiliauskas-321088155/
 
 Technologies:
-- React, Redux, Typescript
+- Javascript, Typescript, php, python
+- React (+Redux)
 - NextJs, Express, NestJs, Laravel
 - DB: Msql, Postgress, Oracle, MongoDB, Mysql
 - Jest, Storybook (+loki), Cypress
